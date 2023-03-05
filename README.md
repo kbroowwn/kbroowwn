@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on some new projects on C++ and Java.
+
 <!--
 **kbroowwn/kbroowwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
