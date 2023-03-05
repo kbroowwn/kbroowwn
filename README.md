@@ -1,6 +1,12 @@
-### Hi there 👋
+# Helloo! My Name is Klarrita Brown. 👋
 
 - 🔭 I’m currently working on some new projects on C++ and Java.
+
+- 💬 Ask me about: Being a designer and a develper 🦄
+
+- 📫 How to reach me: The best way to reach me is through [Twitter](https://twitter.com/tezfiles4free)
+
+
 
 <!--
 **kbroowwn/kbroowwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
